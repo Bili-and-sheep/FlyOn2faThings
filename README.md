@@ -1,0 +1,1 @@
+# ⚠️ If you start the process for the 2fa and exit mid-process the 2fa will be active and at the next login it will prompt you the 2fa code  ⚠️ (i have not plan to fix it if you whant you can fix and send me a pull requests)
